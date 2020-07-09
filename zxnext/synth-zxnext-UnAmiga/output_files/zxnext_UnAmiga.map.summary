@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri May 08 08:21:13 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : zxnext_UnAmiga
+Top-level Entity Name : ZXNEXT_UnAmiga
+Family : Cyclone IV E
+Total logic elements : 13,668
+    Total combinational functions : 11,815
+    Dedicated logic registers : 4,930
+Total registers : 4930
+Total pins : 67
+Total virtual pins : 0
+Total memory bits : 466,998
+Embedded Multiplier 9-bit elements : 1
+Total PLLs : 1

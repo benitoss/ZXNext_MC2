@@ -1,0 +1,103 @@
+Assembler report for zxnext_UnAmiga
+Fri May 08 08:25:26 2020
+Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Assembler Summary
+  3. Assembler Settings
+  4. Assembler Generated Files
+  5. Assembler Device Options: D:/Users/benit/Downloads/UnAmiga/ZXDos/Cores/ZX_Spectrum_Next_FPGA-master-Altera-transitiom/zxnext/synth-zxnext-UnAmiga/output_files/zxnext_UnAmiga.sof
+  6. Assembler Device Options: D:/Users/benit/Downloads/UnAmiga/ZXDos/Cores/ZX_Spectrum_Next_FPGA-master-Altera-transitiom/zxnext/synth-zxnext-UnAmiga/output_files/zxnext_UnAmiga.rbf
+  7. Assembler Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2018  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details.
+
+
+
++---------------------------------------------------------------+
+; Assembler Summary                                             ;
++-----------------------+---------------------------------------+
+; Assembler Status      ; Successful - Fri May 08 08:25:26 2020 ;
+; Revision Name         ; zxnext_UnAmiga                        ;
+; Top-level Entity Name ; ZXNEXT_UnAmiga                        ;
+; Family                ; Cyclone IV E                          ;
+; Device                ; EP4CE22F17C8                          ;
++-----------------------+---------------------------------------+
+
+
++----------------------------------+
+; Assembler Settings               ;
++--------+---------+---------------+
+; Option ; Setting ; Default Value ;
++--------+---------+---------------+
+
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Assembler Generated Files                                                                                                                               ;
++---------------------------------------------------------------------------------------------------------------------------------------------------------+
+; File Name                                                                                                                                               ;
++---------------------------------------------------------------------------------------------------------------------------------------------------------+
+; D:/Users/benit/Downloads/UnAmiga/ZXDos/Cores/ZX_Spectrum_Next_FPGA-master-Altera-transitiom/zxnext/synth-zxnext-UnAmiga/output_files/zxnext_UnAmiga.sof ;
+; D:/Users/benit/Downloads/UnAmiga/ZXDos/Cores/ZX_Spectrum_Next_FPGA-master-Altera-transitiom/zxnext/synth-zxnext-UnAmiga/output_files/zxnext_UnAmiga.rbf ;
++---------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Assembler Device Options: D:/Users/benit/Downloads/UnAmiga/ZXDos/Cores/ZX_Spectrum_Next_FPGA-master-Altera-transitiom/zxnext/synth-zxnext-UnAmiga/output_files/zxnext_UnAmiga.sof ;
++----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Option         ; Setting                                                                                                                                                          ;
++----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; JTAG usercode  ; 0x00A861C1                                                                                                                                                       ;
+; Checksum       ; 0x00A861C1                                                                                                                                                       ;
++----------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Assembler Device Options: D:/Users/benit/Downloads/UnAmiga/ZXDos/Cores/ZX_Spectrum_Next_FPGA-master-Altera-transitiom/zxnext/synth-zxnext-UnAmiga/output_files/zxnext_UnAmiga.rbf ;
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Option              ; Setting                                                                                                                                                     ;
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Raw Binary File     ;                                                                                                                                                             ;
+;  Compression Ratio  ; 2                                                                                                                                                           ;
++---------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+
++--------------------+
+; Assembler Messages ;
++--------------------+
+Info: *******************************************************************
+Info: Running Quartus Prime Assembler
+    Info: Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+    Info: Processing started: Fri May 08 08:25:23 2020
+Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off zxnext_UnAmiga -c zxnext_UnAmiga
+Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
+Info (115031): Writing out detailed assembly data for power analysis
+Info (115030): Assembler is generating device programming files
+Info: Quartus Prime Assembler was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4711 megabytes
+    Info: Processing ended: Fri May 08 08:25:26 2020
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:03
+
+

@@ -1,0 +1,581 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_3M5_CONT'
+Slack : -20.243
+TNS   : -8487.956
+
+Type  : Slow 1200mV 85C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -17.655
+TNS   : -13118.201
+
+Type  : Slow 1200mV 85C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -12.229
+TNS   : -47.265
+
+Type  : Slow 1200mV 85C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[3]'
+Slack : -12.021
+TNS   : -39.179
+
+Type  : Slow 1200mV 85C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -7.071
+TNS   : -76.322
+
+Type  : Slow 1200mV 85C Model Setup 'zxnext:zxnext|T80Na:cpu_mod|T80N:z80n|IR[0]'
+Slack : -5.291
+TNS   : -41.789
+
+Type  : Slow 1200mV 85C Model Setup 'accel_i_q[18]'
+Slack : -5.098
+TNS   : -10.191
+
+Type  : Slow 1200mV 85C Model Setup 'clk_28_div[7]'
+Slack : -5.021
+TNS   : -283.563
+
+Type  : Slow 1200mV 85C Model Setup 'clk_28_div[6]'
+Slack : -4.667
+TNS   : -35.808
+
+Type  : Slow 1200mV 85C Model Setup 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : -4.661
+TNS   : -74.466
+
+Type  : Slow 1200mV 85C Model Setup 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : -4.279
+TNS   : -4.279
+
+Type  : Slow 1200mV 85C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 13.799
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_3M5_CONT'
+Slack : -3.362
+TNS   : -3.362
+
+Type  : Slow 1200mV 85C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.369
+TNS   : -0.369
+
+Type  : Slow 1200mV 85C Model Hold 'zxnext:zxnext|T80Na:cpu_mod|T80N:z80n|IR[0]'
+Slack : -0.312
+TNS   : -0.312
+
+Type  : Slow 1200mV 85C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.415
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.437
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk_28_div[7]'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 0.455
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 0.455
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk_28_div[6]'
+Slack : 0.519
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : 1.047
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'accel_i_q[18]'
+Slack : 2.827
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'ps2_keyb:ps2_kbd_mod|data_send_rdy_s'
+Slack : -6.612
+TNS   : -6.612
+
+Type  : Slow 1200mV 85C Model Recovery 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : -5.286
+TNS   : -5.286
+
+Type  : Slow 1200mV 85C Model Recovery 'CLK_3M5_CONT'
+Slack : -4.838
+TNS   : -25.316
+
+Type  : Slow 1200mV 85C Model Recovery 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : -4.451
+TNS   : -78.309
+
+Type  : Slow 1200mV 85C Model Recovery 'clk_28_div[6]'
+Slack : -4.106
+TNS   : -40.973
+
+Type  : Slow 1200mV 85C Model Removal 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : 1.044
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CLK_3M5_CONT'
+Slack : 2.008
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : 2.165
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk_28_div[6]'
+Slack : 2.261
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ps2_keyb:ps2_kbd_mod|data_send_rdy_s'
+Slack : 4.922
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_3M5_CONT'
+Slack : -1.487
+TNS   : -1167.295
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_28_div[7]'
+Slack : -1.487
+TNS   : -121.934
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : -1.487
+TNS   : -29.740
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk_28_div[6]'
+Slack : -1.487
+TNS   : -19.331
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'accel_i_q[18]'
+Slack : -1.487
+TNS   : -2.974
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ps2_keyb:ps2_kbd_mod|data_send_rdy_s'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'zxnext:zxnext|T80Na:cpu_mod|T80N:z80n|IR[0]'
+Slack : 0.261
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 8.625
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock_50_i'
+Slack : 9.926
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 17.518
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 17.523
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 35.407
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 71.098
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_3M5_CONT'
+Slack : -19.461
+TNS   : -8063.587
+
+Type  : Slow 1200mV 0C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -16.457
+TNS   : -12222.880
+
+Type  : Slow 1200mV 0C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -11.416
+TNS   : -44.144
+
+Type  : Slow 1200mV 0C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[3]'
+Slack : -11.129
+TNS   : -35.366
+
+Type  : Slow 1200mV 0C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -6.370
+TNS   : -68.169
+
+Type  : Slow 1200mV 0C Model Setup 'zxnext:zxnext|T80Na:cpu_mod|T80N:z80n|IR[0]'
+Slack : -5.224
+TNS   : -40.715
+
+Type  : Slow 1200mV 0C Model Setup 'accel_i_q[18]'
+Slack : -5.100
+TNS   : -10.145
+
+Type  : Slow 1200mV 0C Model Setup 'clk_28_div[7]'
+Slack : -4.757
+TNS   : -269.371
+
+Type  : Slow 1200mV 0C Model Setup 'clk_28_div[6]'
+Slack : -4.676
+TNS   : -33.633
+
+Type  : Slow 1200mV 0C Model Setup 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : -4.574
+TNS   : -73.526
+
+Type  : Slow 1200mV 0C Model Setup 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : -4.138
+TNS   : -4.138
+
+Type  : Slow 1200mV 0C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 13.974
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_3M5_CONT'
+Slack : -2.881
+TNS   : -2.881
+
+Type  : Slow 1200mV 0C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.457
+TNS   : -0.457
+
+Type  : Slow 1200mV 0C Model Hold 'zxnext:zxnext|T80Na:cpu_mod|T80N:z80n|IR[0]'
+Slack : -0.222
+TNS   : -0.222
+
+Type  : Slow 1200mV 0C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.386
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.396
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_28_div[7]'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 0.404
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk_28_div[6]'
+Slack : 0.478
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : 0.941
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'accel_i_q[18]'
+Slack : 2.442
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'ps2_keyb:ps2_kbd_mod|data_send_rdy_s'
+Slack : -6.127
+TNS   : -6.127
+
+Type  : Slow 1200mV 0C Model Recovery 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : -4.791
+TNS   : -4.791
+
+Type  : Slow 1200mV 0C Model Recovery 'CLK_3M5_CONT'
+Slack : -4.742
+TNS   : -24.133
+
+Type  : Slow 1200mV 0C Model Recovery 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : -4.332
+TNS   : -74.680
+
+Type  : Slow 1200mV 0C Model Recovery 'clk_28_div[6]'
+Slack : -3.830
+TNS   : -38.222
+
+Type  : Slow 1200mV 0C Model Removal 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : 0.870
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CLK_3M5_CONT'
+Slack : 1.864
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : 2.057
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk_28_div[6]'
+Slack : 2.149
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ps2_keyb:ps2_kbd_mod|data_send_rdy_s'
+Slack : 4.590
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_3M5_CONT'
+Slack : -1.487
+TNS   : -1167.429
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_28_div[7]'
+Slack : -1.487
+TNS   : -121.934
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : -1.487
+TNS   : -29.740
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk_28_div[6]'
+Slack : -1.487
+TNS   : -19.331
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'accel_i_q[18]'
+Slack : -1.487
+TNS   : -2.974
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ps2_keyb:ps2_kbd_mod|data_send_rdy_s'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'zxnext:zxnext|T80Na:cpu_mod|T80N:z80n|IR[0]'
+Slack : 0.018
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 8.623
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock_50_i'
+Slack : 9.935
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 17.492
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 17.498
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 35.406
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 71.072
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_3M5_CONT'
+Slack : -8.842
+TNS   : -3385.737
+
+Type  : Fast 1200mV 0C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -7.942
+TNS   : -5948.102
+
+Type  : Fast 1200mV 0C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -5.594
+TNS   : -21.755
+
+Type  : Fast 1200mV 0C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[3]'
+Slack : -5.484
+TNS   : -19.263
+
+Type  : Fast 1200mV 0C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -3.530
+TNS   : -38.215
+
+Type  : Fast 1200mV 0C Model Setup 'accel_i_q[18]'
+Slack : -2.503
+TNS   : -4.880
+
+Type  : Fast 1200mV 0C Model Setup 'clk_28_div[7]'
+Slack : -2.383
+TNS   : -109.718
+
+Type  : Fast 1200mV 0C Model Setup 'clk_28_div[6]'
+Slack : -2.170
+TNS   : -9.759
+
+Type  : Fast 1200mV 0C Model Setup 'zxnext:zxnext|T80Na:cpu_mod|T80N:z80n|IR[0]'
+Slack : -2.026
+TNS   : -11.328
+
+Type  : Fast 1200mV 0C Model Setup 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : -2.017
+TNS   : -29.619
+
+Type  : Fast 1200mV 0C Model Setup 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : -1.992
+TNS   : -1.992
+
+Type  : Fast 1200mV 0C Model Setup 'clocks_inst|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 15.978
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_3M5_CONT'
+Slack : -1.912
+TNS   : -2.012
+
+Type  : Fast 1200mV 0C Model Hold 'zxnext:zxnext|T80Na:cpu_mod|T80N:z80n|IR[0]'
+Slack : -0.171
+TNS   : -0.171
+
+Type  : Fast 1200mV 0C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.089
+TNS   : -0.089
+
+Type  : Fast 1200mV 0C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.141
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_28_div[7]'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clocks_inst|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk_28_div[6]'
+Slack : 0.209
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'accel_i_q[18]'
+Slack : 1.011
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'ps2_keyb:ps2_kbd_mod|data_send_rdy_s'
+Slack : -3.033
+TNS   : -3.033
+
+Type  : Fast 1200mV 0C Model Recovery 'CLK_3M5_CONT'
+Slack : -2.511
+TNS   : -9.031
+
+Type  : Fast 1200mV 0C Model Recovery 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : -1.984
+TNS   : -1.984
+
+Type  : Fast 1200mV 0C Model Recovery 'clk_28_div[6]'
+Slack : -1.876
+TNS   : -18.727
+
+Type  : Fast 1200mV 0C Model Recovery 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : -1.842
+TNS   : -33.548
+
+Type  : Fast 1200mV 0C Model Removal 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : 0.362
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk_28_div[6]'
+Slack : 0.743
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : 0.791
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CLK_3M5_CONT'
+Slack : 0.874
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ps2_keyb:ps2_kbd_mod|data_send_rdy_s'
+Slack : 1.979
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_3M5_CONT'
+Slack : -1.000
+TNS   : -785.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_28_div[7]'
+Slack : -1.000
+TNS   : -82.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ps2_keyb:ps2_kbd_mod|ps2_iobase:ps2_alt0|sigtrigger'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk_28_div[6]'
+Slack : -1.000
+TNS   : -13.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'accel_i_q[18]'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ps2_keyb:ps2_kbd_mod|data_send_rdy_s'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'zxnext:zxnext|T80Na:cpu_mod|MREQ'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'zxnext:zxnext|T80Na:cpu_mod|T80N:z80n|IR[0]'
+Slack : 0.292
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[4]'
+Slack : 8.711
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock_50_i'
+Slack : 9.585
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 17.599
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 17.604
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 35.462
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clocks_inst|altpll_component|auto_generated|pll1|clk[3]'
+Slack : 71.183
+TNS   : 0.000
+
+------------------------------------------------------------
